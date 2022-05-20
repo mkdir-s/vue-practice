@@ -59,6 +59,7 @@ h3 {
     font-size: 1.35rem;
 }
 
+
 /*.primary {*/
 /*    color: #42b983;*/
 /*}*/
@@ -228,4 +229,12 @@ h3 {
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
+}
+
+.form-control__input {
+    padding-bottom: 30px;
+}
+.form-control .btn {
+    margin-top: 30px;
+    display: inline-block;
 }
